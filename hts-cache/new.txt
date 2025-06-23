@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:02:24	1337/1337	---M-Z	404	error ('Not%20Found')	text/html	etag:1749578997-ssl-df	https://micro-soft-number.netlify.app/robots.txt		(from )
+20:02:24	707/707	---M--	200	added ('OK')	text/html	etag:%22a090d7445dd51d29fab47772680d436d-ssl%22	https://micro-soft-number.netlify.app/	C:/My%20Web%20Sites/mcro/micro-soft-number.netlify.app/index.html	(from )
+20:02:25	3449/3449	---M-Z	404	error ('Not%20Found')	text/html	etag:1749578997-ssl-df	https://micro-soft-number.netlify.app/vite.svg	C:/My%20Web%20Sites/mcro/micro-soft-number.netlify.app/vite.0.delayed	(from https://micro-soft-number.netlify.app/)
+20:02:26	155289/155289	---M-Z	200	added ('OK')	application/javascript	etag:%221cecbd954dd5c98dced49ed81520050f-ssl-df%22	https://micro-soft-number.netlify.app/assets/index-Ccd0yBmh.js	C:/My%20Web%20Sites/mcro/micro-soft-number.netlify.app/assets/index-Ccd0yBmh.js	(from https://micro-soft-number.netlify.app/)
+20:02:27	13499/13499	---M-Z	200	added ('OK')	text/css	etag:%22766bbaae44102924ae2c60cc4305701f-ssl-df%22	https://micro-soft-number.netlify.app/assets/index-BIBKO1qy.css	C:/My%20Web%20Sites/mcro/micro-soft-number.netlify.app/assets/index-BIBKO1qy.css	(from https://micro-soft-number.netlify.app/)
